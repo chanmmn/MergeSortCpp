@@ -1,0 +1,2 @@
+C:\dev2\cpp\odbc\x64\Debug\odbcsql.exe
+C:\dev2\cpp\odbc\x64\Debug\odbcsql.pdb
